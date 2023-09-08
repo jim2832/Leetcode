@@ -6,6 +6,8 @@ struct edge{
     int cost;
 };
 
+/*
+// Kruskal's algo
 class compare{
     public:
         bool operator()(edge &e1, edge &e2){
@@ -15,7 +17,7 @@ class compare{
 
 class Solution {
         vector<int> MST_set;
-        vector<edge> MST_edges;
+        int ans = 0;
 
     public:
         int find_set(int current){
@@ -77,14 +79,81 @@ class Solution {
                 //確認不會形成環
                 if(find_set(current.from) != find_set(current.to)){
                     merge_set(current.from, current.to);
-                    MST_edges.push_back(current);
+                    ans += current.cost;
                     edges_completed++;
                 }
             }
 
-            int sum = 0;
-            for(int i=0; i<MST_edges.size(); i++){
-                sum += MST_edges[i].cost;
+            return ans;
+        }
+};
+*/
+
+// Prim's algo
+class Solution {
+        int vertex;
+        vector<int> predecessor; //紀錄如果要走到MST，要走哪個點
+        vector<int> distance;
+        vector<bool> finished;
+        vector<list<edge>> edges;
+
+    public:
+        int find_minimal_distance(){
+            int minimal = INT_MAX;
+            int index = -1;
+            for(int i=0; i<vertex; i++){
+                if(distance[i] < minimal && !finished[i]){
+                    index = i;
+                    minimal = distance[i];
+                }
+            }
+            return index;
+        }
+        
+        int minCostConnectPoints(vector<vector<int>>& points) {
+            vertex = points.size();
+            // init
+            predecessor.resize(vertex);
+            distance.resize(vertex);
+            finished.resize(vertex);
+            edges.resize(vertex);
+            for(int i=0; i<vertex; i++){
+                predecessor[i] = -1;
+                distance[i] = INT_MAX;
+                finished[i] = false;
+            }
+
+            // push and initialization
+            for(int i=0; i<vertex; i++){
+                // edge i -> j
+                for(int j=i+1; j<vertex; j++){
+                    int current_cost = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1]);
+                    edge current1 = {i, j, current_cost};
+                    edge current2 = {j, i, current_cost};
+                    edges[i].push_back(current1);
+                    edges[j].push_back(current2);
+                }
+            }
+
+            //先選一個起點 (以0為例)
+            distance[0] = 0;
+            int index, sum = 0; //index代表被選定的點
+            for(int i=0; i<vertex; i++){
+                index = find_minimal_distance(); //選一個就目前點來說權重最小的
+                finished[index] = true;
+                sum += distance[index];
+                for(auto iter=edges[index].begin(); iter!=edges[index].end(); iter++){
+                    int target = iter->to;
+                    int current_weight = distance[target];
+                    int cross_weight = iter->cost;
+                    if(finished[target]){
+                        continue;
+                    }
+                    if(cross_weight < current_weight){
+                        distance[target] = cross_weight;
+                        predecessor[target] = index;
+                    }
+                }
             }
 
             return sum;

@@ -9,9 +9,9 @@ public:
         }
 
         // find the the number whose frequency is 1
-        for(auto r:record){
-            if(r.second == 1){
-                return r.first;
+        for(auto it=record.begin(); it!= record.end(); it++){
+            if(it->second == 1){
+                return it->first;
             }
         }
 

@@ -9,12 +9,12 @@ public:
         }
 
         // find the the number whose frequency is 1
-        for(auto it=record.begin(); it!=record.end(); it++){
-            if(it->second == 1){
-                return it->first;
+        for(auto r:record){
+            if(r.second == 1){
+                return r.first;
             }
         }
 
-        return 0;
+        return -1;
     }
 };

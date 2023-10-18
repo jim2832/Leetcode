@@ -10,24 +10,6 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head) {
-        ListNode* prevNode = nullptr;
-        ListNode* currNode = head;
-        ListNode* nextNode = nullptr;
-
-        while (currNode) {
-            nextNode = currNode->next;
-            currNode->next = prevNode;
-            prevNode = currNode;
-            currNode = nextNode;
-        }
-
-        // Update the head to point to the new head (prevNode)
-        head = prevNode;
-
-        return head;
-    }
-
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode *front = head;
         ListNode *back = head;

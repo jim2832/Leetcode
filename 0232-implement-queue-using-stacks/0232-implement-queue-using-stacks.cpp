@@ -1,58 +1,46 @@
-#include <iostream>
-#include <stack>
-using namespace std;
+class MyQueue {
+public:
+    stack<int> stack1, stack2;
 
-class MyQueue{
-    public:
-        stack<int> data, temp;
-
-        MyQueue(){
+    MyQueue() {
+        
+    }
+    
+    void push(int x) {
+        //先把 stack1 的東西都先搬到 stack2
+        while(!stack1.empty()){
+            stack2.push(stack1.top());
+            stack1.pop();
         }
-
-        void push(int x){
-            data.push(x);
+        // 將資料塞入 stack1
+        stack1.push(x);
+        //把 stack2 的資料移回 stack1
+        while(!stack2.empty()){
+            stack1.push(stack2.top());
+            stack2.pop();
         }
-
-        int pop(){
-            //將data stack push到temp(反序)
-            while(!data.empty()){
-                temp.push(data.top());
-                data.pop();
-            }
-
-            //存要回傳的資料
-            int result = temp.top();
-            temp.pop();
-
-            //將資料放回去原本的stack
-            while(!temp.empty()){
-                data.push(temp.top());
-                temp.pop();
-            }
-
-            return result;
-        }
-
-        int peek(){
-            //將data stack push到temp(反序)
-            while(!data.empty()){
-                temp.push(data.top());
-                data.pop();
-            }
-
-            //存要回傳的資料
-            int result = temp.top();
-
-            //將資料放回去原本的stack
-            while(!temp.empty()){
-                data.push(temp.top());
-                temp.pop();
-            }
-
-            return result;
-        }
-
-        bool empty(){
-            return data.empty();
-        }
+    }
+    
+    int pop() {
+        int temp = stack1.top();
+        stack1.pop();
+        return temp;
+    }
+    
+    int peek() {
+        return stack1.top();
+    }
+    
+    bool empty() {
+        return stack1.empty();
+    }
 };
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue* obj = new MyQueue();
+ * obj->push(x);
+ * int param_2 = obj->pop();
+ * int param_3 = obj->peek();
+ * bool param_4 = obj->empty();
+ */

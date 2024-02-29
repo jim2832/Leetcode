@@ -9,6 +9,45 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+class Solution {
+public:
+    bool isEvenOddTree(TreeNode* root) {
+        queue<TreeNode*> q;
+        q.push(root);
+
+        bool even = true;
+        while(!q.empty()){
+            int n = q.size();
+            int prev_val = even ? -INT_MAX : INT_MAX;
+            for(int i=0; i<n; i++){
+                auto current = q.front();
+                q.pop();
+                int val = current->val;
+                // even level -> odd value & increasing order
+                if(even && (val % 2 == 0 || val <= prev_val)){
+                    return false;
+                }
+                // odd level -> even value & decreasing order
+                if(!even && (val % 2 == 1 || val >= prev_val)){
+                    return false;
+                }
+                // update the prev_val
+                prev_val = val;
+
+                // find the nodes of next level
+                if(current->left) q.push(current->left);
+                if(current->right) q.push(current->right);
+            }
+            even = !even;
+        }
+
+        return true;
+    }
+};
+
+/*
+// level order solution
 class Solution {
 public:
     bool isEvenOddTree(TreeNode* root) {
@@ -56,3 +95,4 @@ public:
         return true;
     }
 };
+*/

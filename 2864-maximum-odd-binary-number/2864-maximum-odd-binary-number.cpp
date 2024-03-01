@@ -14,15 +14,10 @@ public:
             if(s[i] == '1') count++;
         }
 
-        s.clear();
-        for(int i=0; i<count-1; i++){
-            s += "1";
-        }
+        string result;
+        for(int i=0; i<count-1; i++) result += "1";
+        for(int i=0; i<n-count; i++) result += "0";
 
-        for(int i=0; i<n-count; i++){
-            s += "0";
-        }
-
-        return s + "1";
+        return result + "1";
     }
 };

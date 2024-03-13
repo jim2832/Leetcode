@@ -14,18 +14,15 @@
 class Solution {
 public:
     int pivotInteger(int n) {
-        int sum = 0;
-        for(int i=1; i<=n; i++){
-            sum += i;
-        }
-
-        int temp_sum = 0;
+        int sum = n * (n+1) / 2;
+        int prefix_sum = 0;
         int temp = 0;
+        
         for(int i=1; i<=n; i++){
-            temp_sum += i;
+            prefix_sum += i;
             sum -= temp;
             temp = i;
-            if(temp_sum == sum){
+            if(prefix_sum == sum){
                 return i;
             }
         }

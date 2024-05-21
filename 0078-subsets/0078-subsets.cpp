@@ -1,13 +1,3 @@
-/*
-
-[]
-[1]
-[1,2]
-[1,2,3]
-[1,2]
-
-*/
-
 class Solution {
 public:
     void solver(vector<int>& nums, int index, vector<int>& sub, vector<vector<int>>& subs){

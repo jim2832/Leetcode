@@ -1,17 +1,3 @@
-/*
-
-19
-
-[2,3] -> 3
-[6,3] -> 3
-[7,5] -> 7
-[11,3] -> 6
-[15,2] -> 4
-[18,1] -> 2
-
-*/
-
-
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {

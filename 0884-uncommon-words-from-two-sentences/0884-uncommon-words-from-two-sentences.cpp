@@ -1,10 +1,10 @@
 class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
-        string str = s1 + " " + s2;
-        unordered_map<string, int> hash;
+        string str = s1 + " " + s2, temp;
         int n = str.size();
-        string temp;
+        unordered_map<string, int> hash;
+        vector<string> result;
         
         for(int i=0; i<=n; i++){
             if(str[i] == ' ' || i == n){
@@ -16,7 +16,6 @@ public:
             }
         }
 
-        vector<string> result;
         for(auto [s, f] : hash){
             if(f == 1) result.emplace_back(s);
         }

@@ -104,19 +104,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jim2832/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jim2832/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jim2832/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->

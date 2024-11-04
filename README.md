@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jim2832/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0394-decode-string](https://github.com/jim2832/Leetcode/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jim2832/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/jim2832/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jim2832/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jim2832/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jim2832/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jim2832/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jim2832/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jim2832/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jim2832/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jim2832/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jim2832/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jim2832/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jim2832/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jim2832/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jim2832/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jim2832/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jim2832/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jim2832/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jim2832/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jim2832/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jim2832/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jim2832/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->

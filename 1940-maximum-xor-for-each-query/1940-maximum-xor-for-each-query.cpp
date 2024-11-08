@@ -7,8 +7,7 @@ public:
         for(auto &num : nums) XOR ^= num;
 
         for(int i=nums.size()-1; i>=0; i--){
-            unsigned int inverted = ~XOR & mask;
-            answer.push_back(inverted);
+            answer.push_back(~XOR & mask);
             XOR ^= nums[i];
         }
 

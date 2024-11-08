@@ -1,14 +1,13 @@
 class Solution {
 public:
     vector<int> getMaximumXor(vector<int>& nums, int maximumBit) {
-        int n = nums.size();
         vector<int> answer;
-        int XOR = 0;
+        int XOR = 0, mask = (1 << maximumBit) - 1;
 
         for(auto &num : nums) XOR ^= num;
 
-        for(int i=n-1; i>=0; i--){
-            unsigned int inverted = ~XOR & ((1 << maximumBit) - 1);
+        for(int i=nums.size()-1; i>=0; i--){
+            unsigned int inverted = ~XOR & mask;
             answer.push_back(inverted);
             XOR ^= nums[i];
         }

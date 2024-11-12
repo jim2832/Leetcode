@@ -7,6 +7,7 @@ public:
 
         while(left <= right){
             int mid = left + (right - left) / 2;
+            
             if(items[mid][0] > targetPrice){
                 right = mid - 1;
             }
@@ -23,9 +24,9 @@ public:
         sort(items.begin(), items.end());
 
         int maxBeauty = items[0][1];
-        for(int i=0; i<items.size(); i++){
-            maxBeauty = max(maxBeauty, items[i][1]);
-            items[i][1] = maxBeauty;
+        for(auto &item : items){
+            maxBeauty = max(maxBeauty, item[1]);
+            item[1] = maxBeauty;
         }
 
         for(int i=0; i<queries.size(); i++){

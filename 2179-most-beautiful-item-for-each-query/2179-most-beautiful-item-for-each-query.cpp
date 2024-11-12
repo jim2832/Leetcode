@@ -1,35 +1,37 @@
 class Solution{
 public:
-    vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries){
-        int maxi = INT_MIN;
-        vector<vector<int>> res = {{0, 0, maxi}};
+    int binarySearch(vector<vector<int>>& items, int targetPrice){
+        int left = 0;
+        int right = items.size() - 1;
+        int maxBeauty = 0;
 
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            if(items[mid][0] > targetPrice){
+                right = mid - 1;
+            }
+            else{
+                maxBeauty = max(maxBeauty, items[mid][1]);
+                left = mid + 1;
+            }
+        }
+        
+        return maxBeauty;
+    }
+
+    vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries){
         sort(items.begin(), items.end());
 
-        for(auto &item : items){
-            int price = item[0];
-            int beauty = item[1];
-            if(beauty > res.back()[1]){
-                res.back()[2] = price;
-                res.push_back({price, beauty, maxi});
-            }
+        int maxBeauty = items[0][1];
+        for(int i=0; i<items.size(); i++){
+            maxBeauty = max(maxBeauty, items[i][1]);
+            items[i][1] = maxBeauty;
         }
 
-        for(auto r : res){
-            cout << r[0] << " " << r[1] << " " << r[2] << endl;
+        for(int i=0; i<queries.size(); i++){
+            queries[i] = binarySearch(items, queries[i]);
         }
 
-        vector<int> ans;
-
-        for(auto &query : queries){
-            for(int i=res.size()-1; i>=0; i--){
-                if(res[i][0] <= query){
-                    ans.push_back(res[i][1]);
-                    break;
-                }
-            }
-        }
-
-        return ans;
+        return queries;
     }
 };

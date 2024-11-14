@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumCandies(vector<int>& candies, long long k) {
-        long long lower = 0, upper = 1e12;
+        long long lower = 0, upper = 1e7;
 
         while(lower < upper){
             long long mid = lower + (upper - lower + 1) / 2;

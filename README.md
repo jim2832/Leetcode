@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/jim2832/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jim2832/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/jim2832/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jim2832/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jim2832/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jim2832/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jim2832/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/jim2832/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jim2832/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/jim2832/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jim2832/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->

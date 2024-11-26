@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/jim2832/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/jim2832/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3188-find-champion-i](https://github.com/jim2832/Leetcode/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jim2832/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/jim2832/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jim2832/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/jim2832/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jim2832/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3188-find-champion-i](https://github.com/jim2832/Leetcode/tree/master/3188-find-champion-i) |
 ## Math
 |  |
 | ------- |

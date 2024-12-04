@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/jim2832/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jim2832/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jim2832/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jim2832/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/jim2832/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/jim2832/Leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/jim2832/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jim2832/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jim2832/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jim2832/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/jim2832/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |

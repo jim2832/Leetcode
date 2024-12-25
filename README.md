@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jim2832/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jim2832/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jim2832/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jim2832/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jim2832/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jim2832/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jim2832/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jim2832/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jim2832/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3189-find-champion-ii](https://github.com/jim2832/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jim2832/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/jim2832/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->

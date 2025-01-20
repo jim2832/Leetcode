@@ -13,8 +13,7 @@ public:
         }
 
         for(int i=0; i<arr.size(); i++){
-            int r = hash[arr[i]].first;
-            int c = hash[arr[i]].second;
+            auto [r, c] = hash[arr[i]];
             if(--rows[r] == 0 || --cols[c] == 0){
                 return i;
             }

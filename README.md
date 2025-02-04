@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jim2832/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jim2832/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/jim2832/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/jim2832/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/jim2832/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/jim2832/Leetcode/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/jim2832/Leetcode/tree/master/1972-rotating-the-box) |

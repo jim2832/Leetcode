@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/jim2832/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/jim2832/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/jim2832/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jim2832/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jim2832/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jim2832/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jim2832/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jim2832/Leetcode/tree/master/0056-merge-intervals) |
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jim2832/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jim2832/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jim2832/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jim2832/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jim2832/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/jim2832/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jim2832/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/jim2832/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jim2832/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/jim2832/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3188-find-champion-i](https://github.com/jim2832/Leetcode/tree/master/3188-find-champion-i) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jim2832/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jim2832/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/jim2832/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jim2832/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jim2832/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |

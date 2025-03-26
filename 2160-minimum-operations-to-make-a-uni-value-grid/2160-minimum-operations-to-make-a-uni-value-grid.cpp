@@ -1,28 +1,28 @@
-class Solution{
+class Solution {
 public:
-    int minOperations(vector<vector<int>>& grid, int x){
-        vector<int> values;
-        for(const auto& row : grid){
-            for(int val : row){
-                values.push_back(val);
+    int minOperations(vector<vector<int>>& grid, int x) {
+        vector<int> nums;
+        for(auto &g : grid){
+            for(auto &ele : g){
+                nums.push_back(ele);
             }
         }
 
-        sort(values.begin(), values.end());
+        sort(nums.begin(), nums.end());
 
-        for(int val : values){
-            if(abs(val - values[0]) % x != 0){
-                return -1;
-            }
+        // determine whether it is valid
+        for(auto &num : nums){
+            if(abs(num - nums[0]) % x != 0) return -1;
         }
 
-        int median = values[values.size() / 2]; // 找中位數
-        int operations = 0;
+        // find median
+        int median = nums[nums.size() / 2];
+        int count = 0;
 
-        for(int val : values){
-            operations += abs(val - median) / x;
+        for(auto &num : nums){
+            count += abs(num - median) / x;
         }
 
-        return operations;
+        return count;
     }
 };

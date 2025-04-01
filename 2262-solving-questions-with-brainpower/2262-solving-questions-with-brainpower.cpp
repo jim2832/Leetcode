@@ -2,7 +2,7 @@ class Solution {
 public:
     long long mostPoints(vector<vector<int>>& questions) {
         int n = questions.size();
-        vector<long long> dp(200001, 0);
+        long long dp[200001] = {};
 
         for(int i=n-1; i>=0; i--){
             int point = questions[i][0];

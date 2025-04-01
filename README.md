@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/jim2832/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jim2832/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/jim2832/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/jim2832/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jim2832/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jim2832/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2342-minimum-average-difference](https://github.com/jim2832/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jim2832/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2262-solving-questions-with-brainpower](https://github.com/jim2832/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |

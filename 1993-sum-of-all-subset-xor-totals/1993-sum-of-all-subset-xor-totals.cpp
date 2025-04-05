@@ -14,6 +14,7 @@ private:
         int include = dfs(nums, index + 1, currentXor ^ nums[index]);
         // Exclude nums[index] from the subset
         int exclude = dfs(nums, index + 1, currentXor);
+        
         return include + exclude;
     }
 };

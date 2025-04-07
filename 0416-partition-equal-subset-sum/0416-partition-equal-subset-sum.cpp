@@ -11,7 +11,7 @@ public:
 
         for(int i = 0; i < n; i++){
             for(int j = target; j >=nums[i]; j--){
-                dp[j] = max(dp[j], dp[j - nums[i]]);
+                dp[j] = dp[j] || dp[j - nums[i]];
             }
         }
 

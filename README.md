@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/jim2832/Leetcode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/jim2832/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jim2832/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/jim2832/Leetcode/tree/master/0495-teemo-attacking) |
 | [0878-shifting-letters](https://github.com/jim2832/Leetcode/tree/master/0878-shifting-letters) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/jim2832/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jim2832/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |

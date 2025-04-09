@@ -1,13 +1,10 @@
 class Solution {
-public:
-    int minOperations(vector<int>& nums, int k) {
-        unordered_set<int> s;
-        for(auto &num : nums) {
-            if(num < k) return -1;
-            s.insert(num);
+    public:
+        int minOperations(vector<int>& nums, int k) {
+            int mini = *min_element(nums.begin(), nums.end());
+            if(mini < k) return -1;
+            
+            unordered_set<int> s(nums.begin(), nums.end());
+            return mini == k ? s.size()-1 : s.size();
         }
-
-        s.erase(k);
-        return s.size();
-    }
-};
+    };

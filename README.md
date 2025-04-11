@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jim2832/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jim2832/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1965-sum-of-digits-in-base-k](https://github.com/jim2832/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jim2832/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jim2832/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/jim2832/Leetcode/tree/master/2716-prime-subtraction-operation) |

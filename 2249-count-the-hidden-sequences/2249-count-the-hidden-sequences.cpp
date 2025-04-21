@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int numberOfArrays(vector<int>& differences, int lower, int upper) {
+        long long minPrefix = 0, maxPrefix = 0;
+        long long prefix = 0;
+
+        for (int d : differences) {
+            prefix += d;
+            minPrefix = min(minPrefix, prefix);
+            maxPrefix = max(maxPrefix, prefix);
+        }
+
+        long long minStart = lower - minPrefix;
+        long long maxStart = upper - maxPrefix;
+
+        return max(0LL, maxStart - minStart + 1);
+    }
+};

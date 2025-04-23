@@ -8,33 +8,27 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution{
-    public:
-        ListNode* mergeTwoLists(ListNode* l1, ListNode* l2){
-            ListNode* head = new ListNode(0); //一個初始化的空節點
-            ListNode* current = head;
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        ListNode* dummy = new ListNode(0);
+        ListNode* current = dummy;
 
-            //如果l1和l2都不為空則繼續做
-            while(l1 && l2){
-                if(l1->val > l2->val){
-                    current->next = l2;
-                    l2 = l2->next;
-                }
-                else{
-                    current->next = l1;
-                    l1 = l1-> next;
-                }
-                current = current->next;
+        while(list1 && list2){
+            if(list1->val < list2->val){
+                current->next = list1;
+                list1 = list1->next;
             }
-            
-            //如果l1還有值，但l2已經空了
-            if(l1){
-                current->next = l1;
+            else{
+                current->next = list2;
+                list2 = list2->next;
             }
-            else if(l2){
-                current->next = l2;
-            }
-
-            return head->next;
+            current = current->next;
         }
+
+        if(list1) current->next = list1;
+        if(list2) current->next = list2;
+
+        return dummy->next;
+    }
 };

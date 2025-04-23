@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jim2832/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jim2832/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jim2832/Leetcode/tree/master/0038-count-and-say) |
 | [0394-decode-string](https://github.com/jim2832/Leetcode/tree/master/0394-decode-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jim2832/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jim2832/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jim2832/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jim2832/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jim2832/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jim2832/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jim2832/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |

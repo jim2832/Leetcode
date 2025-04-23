@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jim2832/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/jim2832/Leetcode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/jim2832/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jim2832/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jim2832/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jim2832/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jim2832/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Design

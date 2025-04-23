@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jim2832/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/jim2832/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/jim2832/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jim2832/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jim2832/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/jim2832/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jim2832/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/jim2832/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jim2832/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jim2832/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/jim2832/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jim2832/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |

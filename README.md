@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jim2832/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jim2832/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3188-find-champion-i](https://github.com/jim2832/Leetcode/tree/master/3188-find-champion-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jim2832/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jim2832/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jim2832/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jim2832/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/jim2832/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jim2832/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jim2832/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jim2832/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/jim2832/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jim2832/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jim2832/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |

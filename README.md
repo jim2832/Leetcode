@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1002-maximum-width-ramp](https://github.com/jim2832/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/jim2832/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jim2832/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jim2832/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jim2832/Leetcode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jim2832/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/jim2832/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/jim2832/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/jim2832/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/jim2832/Leetcode/tree/master/1917-maximum-average-pass-ratio) |

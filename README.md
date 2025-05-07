@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jim2832/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jim2832/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jim2832/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jim2832/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jim2832/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jim2832/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jim2832/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jim2832/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jim2832/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jim2832/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/jim2832/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3188-find-champion-i](https://github.com/jim2832/Leetcode/tree/master/3188-find-champion-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jim2832/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3189-find-champion-ii](https://github.com/jim2832/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jim2832/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jim2832/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Linked List
 |  |
 | ------- |
@@ -559,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jim2832/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jim2832/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jim2832/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jim2832/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/jim2832/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jim2832/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jim2832/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jim2832/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |

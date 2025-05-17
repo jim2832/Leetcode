@@ -3,18 +3,15 @@ public:
     void sortColors(vector<int>& nums) {
         int hashMap[3] = {};
 
-        for(auto &num : nums){
+        for(auto &num : nums) {
             hashMap[num]++;
         }
 
-        int i = 0;
-        int cur_num = 0;
-        while(i < nums.size()){
-            for(int j = 0; j < hashMap[cur_num]; j++){
-                nums[i] = cur_num;
-                i++;
+        int index = 0;
+        for(int color = 0; color < 3; color++) {
+            for(int count = 0; count < hashMap[color]; count++) {
+                nums[index++] = color;
             }
-            cur_num++;
         }
     }
 };

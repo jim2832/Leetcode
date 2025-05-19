@@ -7,12 +7,11 @@ public:
     string triangleType(vector<int>& nums) {
         sort(nums.begin(), nums.end());
 
-        int a = nums[0], b = nums[1], c = nums[2];
+        auto [a, b, c] = tie(nums[0], nums[1], nums[2]);
 
         if(a + b <= c) return "none";
-        
         if(a == b && b == c) return "equilateral";
-        else if((a == b) || (b == c)) return "isosceles";
+        if((a == b) || (b == c)) return "isosceles";
 
         return "scalene";
     }

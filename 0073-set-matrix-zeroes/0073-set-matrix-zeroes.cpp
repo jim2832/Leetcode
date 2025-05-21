@@ -1,27 +1,21 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int row = matrix.size();
-        int col = matrix[0].size();
-        unordered_map<int, int> r;
-        unordered_map<int, int> c;
+        int rows = matrix.size(), cols = matrix[0].size();
+        unordered_set<int> r, c;
 
-        for(int i=0; i<row; i++){
-            for(int j=0; j<col; j++){
+        for(int i = 0; i < rows; i++){
+            for(int j = 0; j < cols; j++){
                 if(matrix[i][j] == 0){
-                    r[i] = 0;
-                    c[j] = 0;
+                    r.insert(i);
+                    c.insert(j);
                 }
             }
         }
 
-        // for(auto iter=hash.begin(); iter!=hash.end(); iter++){
-        //     cout << iter->first << " " << iter->second << endl;
-        // }
-
-        for(int i=0; i<row; i++){
-            for(int j=0; j<col; j++){
-                if(r.find(i) != r.end() || c.find(j) != c.end()){
+        for(int i = 0; i < rows; i++){
+            for(int j = 0; j < cols; j++){
+                if(r.count(i) || c.count(j)){
                     matrix[i][j] = 0;
                 }
             }

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jim2832/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/jim2832/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jim2832/Leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/jim2832/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jim2832/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jim2832/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jim2832/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/jim2832/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jim2832/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/jim2832/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jim2832/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jim2832/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/jim2832/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jim2832/Leetcode/tree/master/2089-maximum-matrix-sum) |

@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/jim2832/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jim2832/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/jim2832/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jim2832/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jim2832/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -625,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jim2832/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/jim2832/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

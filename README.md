@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jim2832/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jim2832/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/jim2832/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jim2832/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jim2832/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/jim2832/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jim2832/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/jim2832/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jim2832/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jim2832/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |

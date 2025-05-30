@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jim2832/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/jim2832/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jim2832/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jim2832/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jim2832/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jim2832/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jim2832/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3189-find-champion-ii](https://github.com/jim2832/Leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jim2832/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jim2832/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |

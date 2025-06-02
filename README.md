@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/jim2832/Leetcode/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jim2832/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/jim2832/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/jim2832/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-special-array-ii](https://github.com/jim2832/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/jim2832/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/jim2832/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/jim2832/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jim2832/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3188-find-champion-i](https://github.com/jim2832/Leetcode/tree/master/3188-find-champion-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/jim2832/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jim2832/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |

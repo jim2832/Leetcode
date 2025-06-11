@@ -11,23 +11,22 @@
  */
 class Solution {
 public:
-    bool is_identical(TreeNode* root1, TreeNode* root2){
-        if(root1 == nullptr && root2 == nullptr){
-            return true;
-        }
-        if(root1 == nullptr || root2 == nullptr){
-            return false;
-        }
-        return (root1->val == root2->val) && is_identical(root1->left, root2->left) && is_identical(root1->right, root2->right);
+    bool theSame(TreeNode* root, TreeNode* subRoot){
+        if(!root && !subRoot) return true;
+        if(!root || !subRoot) return false;
+        return root->val == subRoot->val
+                && theSame(root->left, subRoot->left)
+                && theSame(root->right, subRoot->right);
     }
 
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(!root){
-            return false;
-        }
-        else if(is_identical(root, subRoot)){
+        if(!root) return false;
+
+        else if(theSame(root, subRoot)){
             return true;
         }
-        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
+
+        return isSubtree(root->left, subRoot)
+            || isSubtree(root->right, subRoot);
     }
 };

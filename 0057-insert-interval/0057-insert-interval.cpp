@@ -1,34 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        vector<vector<int>> result;
-        
+        vector<vector<int>> merged;
         int new_start = newInterval[0];
         int new_end = newInterval[1];
+        bool inserted = false;
 
-        int i = 0;
-        int n = intervals.size();
-
-        // 重疊之前
-        while(i < n && new_start > intervals[i][1]){
-            result.push_back(intervals[i]);
-            i++;
+        for(auto &interval : intervals) {
+            if(interval[1] < new_start) {
+                merged.push_back(interval);
+            }
+            else if(interval[0] > new_end) {
+                if(!inserted) {
+                    merged.push_back({new_start, new_end});
+                    inserted = true;
+                }
+                merged.push_back(interval);
+            }
+            else {
+                new_start = min(new_start, interval[0]);
+                new_end = max(new_end, interval[1]);
+            }
         }
 
-        // 重疊之間
-        while(i < n && new_end >= intervals[i][0]){
-            new_start = min(new_start, intervals[i][0]);
-            new_end = max(new_end, intervals[i][1]);
-            i++;
-        }
-        result.push_back({new_start, new_end});
-
-        // 重疊之後
-        while(i < n){
-            result.push_back(intervals[i]);
-            i++;
+        if(!inserted) {
+            merged.push_back({new_start, new_end});
         }
 
-        return result;
+        return merged;
     }
 };

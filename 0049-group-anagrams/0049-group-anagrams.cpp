@@ -1,18 +1,19 @@
 class Solution {
-    public:
-        vector<vector<string>> groupAnagrams(vector<string>& strs) {
-            //建立hash table
-            unordered_map<string, vector<string>> m;
-            for(string s:strs){
-                string t = s;
-                sort(t.begin(), t.end());
-                m[t].push_back(s);
-            }
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        unordered_map<string, vector<string>> hashMap;
+        vector<vector<string>> result;
 
-            vector<vector<string>> result;
-            for(auto s:m){
-                result.push_back(s.second);
-            }
-            return result;
+        for(auto &str : strs){
+            string temp = str;
+            sort(temp.begin(), temp.end());
+            hashMap[temp].push_back(str);
         }
+
+        for(auto &[t, s] : hashMap){
+            result.push_back(s);
+        }
+
+        return result;
+    }
 };

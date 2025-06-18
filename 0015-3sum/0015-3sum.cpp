@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
         sort(nums.begin(), nums.end());
+        int n = nums.size();
         vector<vector<int>> result;
 
         for(int i = 0; i < n - 2; i++){

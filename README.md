@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jim2832/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/jim2832/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/jim2832/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jim2832/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jim2832/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jim2832/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jim2832/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jim2832/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jim2832/Leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/jim2832/Leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/jim2832/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jim2832/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jim2832/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jim2832/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/jim2832/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jim2832/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/jim2832/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/jim2832/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jim2832/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jim2832/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/jim2832/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jim2832/Leetcode/tree/master/0322-coin-change) |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jim2832/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -691,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 ## Union Find
 |  |
 | ------- |

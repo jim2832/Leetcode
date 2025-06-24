@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/jim2832/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/jim2832/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jim2832/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/jim2832/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2342-minimum-average-difference](https://github.com/jim2832/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jim2832/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/jim2832/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/jim2832/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jim2832/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/jim2832/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/jim2832/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jim2832/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jim2832/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/jim2832/Leetcode/tree/master/2551-apply-operations-to-an-array) |

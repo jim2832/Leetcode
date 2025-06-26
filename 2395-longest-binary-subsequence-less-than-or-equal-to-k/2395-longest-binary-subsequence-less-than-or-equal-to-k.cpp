@@ -15,8 +15,8 @@ public:
                 }
             }
 
-            if(weight <= LLONG_MAX / 2){
-                weight *= 2;
+            if(weight <= LLONG_MAX >> 1){
+                weight <<= 1;
             }
             else{
                 weight = LLONG_MAX;

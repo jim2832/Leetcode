@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/jim2832/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jim2832/Leetcode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/jim2832/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/jim2832/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0878-shifting-letters](https://github.com/jim2832/Leetcode/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jim2832/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/jim2832/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/jim2832/Leetcode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/jim2832/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jim2832/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/jim2832/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/jim2832/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jim2832/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/jim2832/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/jim2832/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/jim2832/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jim2832/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jim2832/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/jim2832/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jim2832/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jim2832/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/jim2832/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jim2832/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |

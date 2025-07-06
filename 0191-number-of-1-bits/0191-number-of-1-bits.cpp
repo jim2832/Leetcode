@@ -1,13 +1,11 @@
 class Solution {
 public:
-    int hammingWeight(uint32_t n) {
+    int hammingWeight(int n) {
         int count = 0;
-        for(int i=0; i<32; i++){
-            // check if the lowest bit is 1
-            count += n & 1;
+        while(n){
+            count += (n & 1);
             n >>= 1;
         }
-
         return count;
     }
 };

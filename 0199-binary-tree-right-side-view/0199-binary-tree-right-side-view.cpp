@@ -9,43 +9,26 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-/*
-
-    1
-  2   3
-4
-
-level order traversal
-
-*/
-
 class Solution {
 public:
-
     vector<int> rightSideView(TreeNode* root) {
+        if(!root) return {};
+
         vector<int> result;
         queue<TreeNode*> q;
-
-        if(root == nullptr)
-            return result;
-
         q.push(root);
+
         while(!q.empty()){
-            vector<int> temp;
             int n = q.size();
-            for(int i=0; i<n; i++){
-                TreeNode* current = q.front();
+            int temp = 0;
+            for(int i = 0; i < n; i++){
+                auto current = q.front();
                 q.pop();
-                if(current->left){
-                    q.push(current->left);
-                }
-                if(current->right){
-                    q.push(current->right);
-                }
-                temp.push_back(current->val);
+                if(current->left) q.push(current->left);
+                if(current->right) q.push(current->right);
+                temp = current->val;
             }
-            result.push_back(temp.back());
+            result.push_back(temp);
         }
 
         return result;

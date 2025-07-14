@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jim2832/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jim2832/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jim2832/Leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/jim2832/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jim2832/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/jim2832/Leetcode/tree/master/0394-decode-string) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/jim2832/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jim2832/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/jim2832/Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jim2832/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/jim2832/Leetcode/tree/master/0300-longest-increasing-subsequence) |

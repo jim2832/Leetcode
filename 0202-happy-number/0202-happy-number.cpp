@@ -1,23 +1,24 @@
 class Solution {
 public:
-    int next_number(int n){
-        int sum = 0;
+    int newNum(int n){
+        int temp = 0;
         while(n){
-            sum += pow(n % 10, 2);
+            temp += (n % 10) * (n % 10);
             n /= 10;
         }
-
-        return sum;
+        return temp;
     }
 
     bool isHappy(int n) {
-        unordered_set<int> set;
+        int current = n;
+        unordered_set<int> s;
 
-        while(n != 1 && !set.count(n)){
-            set.insert(n);
-            n = next_number(n);
+        while(current != 1){
+            current = newNum(current);
+            if(s.count(current)) return false;
+            s.insert(current);
         }
-        
-        return n == 1;
+
+        return true;
     }
 };

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jim2832/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jim2832/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/jim2832/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/jim2832/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jim2832/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jim2832/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jim2832/Leetcode/tree/master/0056-merge-intervals) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/jim2832/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/jim2832/Leetcode/tree/master/0079-word-search) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jim2832/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jim2832/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |

@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jim2832/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jim2832/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/jim2832/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jim2832/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jim2832/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jim2832/Leetcode/tree/master/0049-group-anagrams) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jim2832/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/jim2832/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/jim2832/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jim2832/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jim2832/Leetcode/tree/master/0079-word-search) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jim2832/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jim2832/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jim2832/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jim2832/Leetcode/tree/master/0062-unique-paths) |

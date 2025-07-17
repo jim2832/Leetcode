@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1002-maximum-width-ramp](https://github.com/jim2832/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/jim2832/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jim2832/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jim2832/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/jim2832/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jim2832/Leetcode/tree/master/0695-max-area-of-island) |
 | [1035-cousins-in-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/jim2832/Leetcode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/jim2832/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jim2832/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jim2832/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jim2832/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jim2832/Leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/jim2832/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jim2832/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/jim2832/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jim2832/Leetcode/tree/master/2089-maximum-matrix-sum) |

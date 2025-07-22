@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/jim2832/Leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jim2832/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/jim2832/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/jim2832/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jim2832/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jim2832/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jim2832/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/jim2832/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jim2832/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jim2832/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1813-maximum-erasure-value](https://github.com/jim2832/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jim2832/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jim2832/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jim2832/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/jim2832/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jim2832/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/jim2832/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/jim2832/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jim2832/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jim2832/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jim2832/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |

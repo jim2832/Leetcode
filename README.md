@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jim2832/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/jim2832/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jim2832/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jim2832/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jim2832/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/jim2832/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jim2832/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jim2832/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jim2832/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jim2832/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jim2832/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/jim2832/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jim2832/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jim2832/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -836,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jim2832/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jim2832/Leetcode/tree/master/0210-course-schedule-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jim2832/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->

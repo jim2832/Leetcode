@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jim2832/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jim2832/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jim2832/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/jim2832/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/jim2832/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/jim2832/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jim2832/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/jim2832/Leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/jim2832/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/jim2832/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jim2832/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/jim2832/Leetcode/tree/master/0300-longest-increasing-subsequence) |

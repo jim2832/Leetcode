@@ -2,12 +2,12 @@ class Solution {
 public:
     string largestGoodInteger(string num) {
         int n = num.size();
-        string temp, result;
+        string result;
 
         for(int i = 0; i < n - 2; i++){
-            temp = num.substr(i, 3);
-            if(temp[0] == temp[1] && temp[1] == temp[2]){
-                result = max(result, temp);
+            if(num[i] == num[i+1] && num[i+1] == num[i+2]){
+                string cur = string(3, num[i]);
+                result = max(result, cur);
             }
         }
         

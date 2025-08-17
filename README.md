@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jim2832/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jim2832/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/jim2832/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0867-new-21-game](https://github.com/jim2832/Leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jim2832/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jim2832/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jim2832/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0867-new-21-game](https://github.com/jim2832/Leetcode/tree/master/0867-new-21-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jim2832/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jim2832/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jim2832/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jim2832/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/jim2832/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/jim2832/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/jim2832/Leetcode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jim2832/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/jim2832/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/jim2832/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -865,4 +868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/jim2832/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/jim2832/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

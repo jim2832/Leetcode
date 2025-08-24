@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/jim2832/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/jim2832/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jim2832/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jim2832/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/jim2832/Leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/jim2832/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/jim2832/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jim2832/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jim2832/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jim2832/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jim2832/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/jim2832/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jim2832/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/jim2832/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jim2832/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jim2832/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jim2832/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/jim2832/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/jim2832/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jim2832/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |

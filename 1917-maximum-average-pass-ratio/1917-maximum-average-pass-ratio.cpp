@@ -1,32 +1,33 @@
+#define DS pair<double, pair<int, int>>
+
 class Solution {
 public:
+    auto gain(int pass, int total){
+        return (double)(pass + 1) / (total + 1) - (double)pass / total;
+    }
+
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        priority_queue<pair<double, pair<int,int>>> pq;
-        double avg = 0;
+        priority_queue<DS> pq;
+        double sum = 0;
+        int n = classes.size();
 
         for(auto &c : classes){
-            int pass = c[0], total = c[1];
-            double change = (double)(pass+1)/(total+1) - (double)pass/total;
-            pq.push({change, {pass, total}});
+            pq.push({gain(c[0], c[1]), {c[0], c[1]}});
         }
 
         while(extraStudents--){
-            auto [change, info] = pq.top();
-            pq.pop();
-            int pass = info.first, total = info.second;
+            auto [g, p] = pq.top(); pq.pop();
+            int pass = p.first, total = p.second;
             pass++;
             total++;
-            double new_change = (double)(pass+1)/(total+1) - (double)pass/total;
-            pq.push({new_change, {pass, total}});
+            pq.push({gain(pass, total), {pass, total}});
         }
 
         while(!pq.empty()){
-            auto [change, info] = pq.top();
-            pq.pop();
-            int pass = info.first, total = info.second;
-            avg += (double)pass / total;
+            auto [g, p] = pq.top(); pq.pop();
+            sum += (double)p.first / p.second;
         }
 
-        return avg / classes.size();
+        return sum / n;
     }
 };

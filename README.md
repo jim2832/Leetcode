@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/jim2832/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jim2832/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/jim2832/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/jim2832/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jim2832/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/jim2832/Leetcode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jim2832/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1006-vowel-spellchecker](https://github.com/jim2832/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jim2832/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/jim2832/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jim2832/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jim2832/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |

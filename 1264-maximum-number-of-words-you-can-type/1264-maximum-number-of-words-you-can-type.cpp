@@ -12,15 +12,11 @@ public:
 
         for(int i = 0; i <= n; i++){
             if(text[i] == ' ' || i == n){
-                if(flag == true){
-                    count++;
-                }
+                count += flag;
                 flag = true;
             }
-            else{
-                if(us.count(text[i])){
-                    flag = false;
-                }
+            else if(us.count(text[i])){
+                flag = false;
             }
         }
 

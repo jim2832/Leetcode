@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/jim2832/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jim2832/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/jim2832/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/jim2832/Leetcode/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jim2832/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jim2832/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jim2832/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/jim2832/Leetcode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jim2832/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/jim2832/Leetcode/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/jim2832/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/jim2832/Leetcode/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jim2832/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3827-implement-router](https://github.com/jim2832/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/jim2832/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/jim2832/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jim2832/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3827-implement-router](https://github.com/jim2832/Leetcode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/jim2832/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/jim2832/Leetcode/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |

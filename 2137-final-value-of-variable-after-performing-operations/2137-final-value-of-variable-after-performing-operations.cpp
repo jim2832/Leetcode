@@ -2,9 +2,8 @@ class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
         int X = 0;
-        for(string &o : operations){
-            if(o == "X++" || o == "++X") X++;
-            else X--;
+        for(auto &o : operations){
+            X += (o[1] == '+') ? 1 : -1;
         }
         return X;
     }

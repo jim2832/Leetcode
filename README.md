@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-array-of-doubled-pairs](https://github.com/jim2832/Leetcode/tree/master/0991-array-of-doubled-pairs) |
 | [1002-maximum-width-ramp](https://github.com/jim2832/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/jim2832/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/jim2832/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/jim2832/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/jim2832/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jim2832/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jim2832/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/jim2832/Leetcode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/jim2832/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/jim2832/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1940-maximum-xor-for-each-query](https://github.com/jim2832/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jim2832/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jim2832/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |

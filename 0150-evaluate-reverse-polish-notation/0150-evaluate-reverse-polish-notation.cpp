@@ -1,45 +1,27 @@
 class Solution {
 public:
-    stack<string> s;
+    int evalRPN(vector<string>& tokens) {
+        stack<int> stack;
+        unordered_map<string, function<int(int,int)>> ops = {
+            { "+", [](int a, int b){ return a + b; } },
+            { "-", [](int a, int b){ return a - b; } },
+            { "*", [](int a, int b){ return a * b; } },
+            { "/", [](int a, int b){ return a / b; } },
+        };
 
-    int evalRPN(vector<string> &tokens){
-        for(string c:tokens){
-            //operator
-            if(c == "+" || c == "-" || c == "*" || c == "/"){
-                //handle operand
-                int op2 = stoi(s.top());
-                s.pop();
-                int op1 = stoi(s.top());
-                s.pop();
-
-                //declare temp result
-                int temp = 0;
-
-                //operation
-                if(c == "+"){
-                    temp = op1 + op2;
-                    s.push(to_string(temp));
-                }
-                else if(c == "-"){
-                    temp = op1 - op2;
-                    s.push(to_string(temp));
-                }
-                else if(c == "*"){
-                    temp = op1 * op2;
-                    s.push(to_string(temp));
-                }
-                // '/'operator
-                else{
-                    temp = op1 / op2;
-                    s.push(to_string(temp));
-                }
+        for(string &t : tokens){
+            if(ops.count(t)){
+                int temp1 = stack.top();
+                stack.pop();
+                int temp2 = stack.top();
+                stack.pop();
+                stack.push(ops[t](temp2, temp1));
             }
-            //operand
             else{
-                s.push(c);
+                stack.push(stoi(t));
             }
         }
 
-        return stoi(s.top());
+        return stack.top();
     }
 };

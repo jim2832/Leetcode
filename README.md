@@ -922,4 +922,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/jim2832/Leetcode/tree/master/0867-new-21-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/jim2832/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

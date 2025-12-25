@@ -926,4 +926,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/jim2832/Leetcode/tree/master/0182-duplicate-emails) |
+| [1693-daily-leads-and-partners](https://github.com/jim2832/Leetcode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->

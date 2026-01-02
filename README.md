@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jim2832/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jim2832/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jim2832/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/jim2832/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/jim2832/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jim2832/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/jim2832/Leetcode/tree/master/0097-interleaving-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jim2832/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/jim2832/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/jim2832/Leetcode/tree/master/0495-teemo-attacking) |
 | [1642-water-bottles](https://github.com/jim2832/Leetcode/tree/master/1642-water-bottles) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jim2832/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jim2832/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jim2832/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/jim2832/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/jim2832/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jim2832/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jim2832/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jim2832/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jim2832/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/jim2832/Leetcode/tree/master/0202-happy-number) |
